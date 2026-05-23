@@ -44,4 +44,4 @@ CompTIA Security+ · deeper AI & security topics
 
 ## 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-blue?style=flat-square&logo=gmail)](mailto:goncalo.avo.f@gmail.com)
+[![Email](https://img.shields.io/badge/Email-goncalo.avo.f@gmail.com-blue?style=flat-square&logo=gmail)](mailto:goncalo.avo.f@gmail.com)
