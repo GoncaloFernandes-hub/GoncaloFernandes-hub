@@ -1,47 +1,22 @@
-# Hi, I'm Gonçalo 👋
+Hi, I'm Gonçalo
+I'm a Computer Science student at the University of Porto. My degree has taken me across most of the field so far, from algorithms and operating systems to databases and networking, and lately I've been spending more of my own time on AI and cybersecurity.
+Mostly I like figuring out how things work, building my own versions, and seeing where they fall apart.
+Background
+So far my degree has covered the usual core areas at an introductory level:
 
-I'm a **Computer Science student** at the University of Porto. I enjoy the full breadth of the field — from algorithms and systems to databases and networks — and I'm increasingly drawn to the areas where **Artificial Intelligence** and **Cybersecurity** meet.
+Data Structures & Algorithms
+Operating Systems
+Databases
+Computer Networks
+Web Development
+Software Engineering
 
-I like understanding how things work from the ground up, building them, and figuring out where they break.
-
----
-
-## 🎓 Background
-
-I'm working through a Computer Science degree with hands-on experience across the core areas of the field:
-
-- Data Structures & Algorithms
-- Operating Systems
-- Databases
-- Computer Networks
-- Web Development
-- Software Engineering
-
-As I've progressed, I've become particularly interested in **AI** and **cybersecurity**, and I'm focusing my learning towards problems at that intersection — things like applying intelligent systems to security and privacy.
-
----
-
-## 💻 Technical Skills
-
-**Languages**
-`Python` · `C` · `C++` · `Java` · `SQL` · `Haskell`
-
-**Areas**
-Algorithms · Operating Systems · Databases · Networks · Web Development · Software Engineering · Cryptography · Machine Learning
-
-**Currently learning**
-CompTIA Security+ · deeper AI & security topics
-
----
-
-## 🌱 Now
-
-- Continuing my CS degree at the University of Porto
-- Exploring AI-driven approaches to security and privacy
-- Building out projects and sharpening my fundamentals
-
----
-
-## 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-goncalo.avo.f@gmail.com-blue?style=flat-square&logo=gmail)](mailto:goncalo.avo.f@gmail.com)
+The parts I keep coming back to are AI and security, so that's where most of my side projects are heading.
+Technical Skills
+Languages: Python, C, C++, Java, SQL, Haskell
+Areas: Algorithms, Operating Systems, Databases, Networks, Web Development, Software Engineering, Cryptography, Machine Learning
+Currently learning: CompTIA Security+
+Now
+Still working through my CS degree at Porto, putting projects up here as I go, and reading more about where AI and security overlap.
+Contact
+goncalo.avo.f@gmail.com
